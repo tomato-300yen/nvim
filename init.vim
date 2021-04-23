@@ -17,4 +17,5 @@ source $HOME/.config/nvim/plug-config/quickscope.vim
 source $HOME/.config/nvim/plug-config/floaterm.vim
 source $HOME/.config/nvim/plug-config/coc-snippets.vim
 source $HOME/.config/nvim/plug-config/pydoc.vim
+source $HOME/.config/nvim/plug-config/barbar.vim
 luafile $HOME/.config/nvim/lua/plug-colorizer.lua

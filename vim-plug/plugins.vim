@@ -69,6 +69,9 @@ call plug#begin('~/.config/nvim/autoload/plugged')
   Plug 'kana/vim-textobj-entire'
   " visual start search
   Plug 'bronson/vim-visual-star-search'
+  " barbar: COOL tabline
+  Plug 'kyazdani42/nvim-web-devicons'
+  Plug 'romgrk/barbar.nvim'
   call plug#end()
 
 autocmd VimEnter *
